@@ -1,12 +1,5 @@
 # Week 3 Cybersecurity Lab: Password Cracking with John the Ripper & Networkwalks Tools
 
-**Intern:** Abbeylanre (Batch B084)  
-**Organization:** Networkwalks Academy  
-**Modules Covered:**
-* **Module 1:** Password Cracking with John the Ripper (JTR) & Johnny GUI
-* **Module 2:** Password Cracking with Networkwalks Web Tools
-
----
 
 ## 📌 Executive Summary
 This repository documents the Week 3 Cybersecurity & Ethical Hacking internship labs focused on password auditing and cryptographic hash recovery. Using both local desktop tools (**John the Ripper** / **Johnny**) and browser-based utilities (**Networkwalks Hash Calculator** & **Password Cracker**), an encrypted target document (`My Locked PDF1.pdf`) was analyzed, its `$pdf$` hash extracted, and its plaintext password (`password1`) recovered.
@@ -64,7 +57,7 @@ This repository documents the Week 3 Cybersecurity & Ethical Hacking internship 
 * **Operational Security Note:** In real-world penetration testing, sensitive corporate documents or hashes should never be uploaded to third-party public web crackers; offline extraction (`pdf2john`) and local JTR instances should be used instead.
 * **Remediation:** Protect sensitive files using strong, high-entropy passphrases (14+ characters) and AES-256 encryption to resist dictionary and brute-force attacks.
 
-: ## 👤 Author Metadata
+ ## 👤 Author Metadata
 
 * **Name:** Abiodun Omotosho
 * **Program:** Networkwalks Cybersecurity Internship
