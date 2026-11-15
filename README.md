@@ -30,10 +30,12 @@ This repository documents the Week 3 Cybersecurity & Ethical Hacking internship 
 ### Proof of Work (Module 1)
 | Step | Screenshot |
 | :--- | :--- |
-| **1. Johnny Configuration** | ![Johnny Setup](module-1-john-the-ripper/screenshots/01-johnny-setup.png) |
+| **1. Johnny Configuration** | ![Johnny Setup](screenshots1/johnny-setup.png) |
 | **2. Hash Extraction (`$pdf$`)** | ![Hash Extraction](module-1-john-the-ripper/screenshots/02-pdf-hash-extraction.png) |
-| **3. Johnny Cracked Result** | ![Johnny Attack Success](module-1-john-the-ripper/screenshots/03-johnny-attack-success.png) |
-| **4. Unlocked PDF Verification** | ![Unlocked PDF](module-1-john-the-ripper/screenshots/04-unlocked-pdf.png) |
+| **3. Hash Saving (`$pdf$`)** | ![Hash Saving](module-1-john-the-ripper/screenshots/02-pdf-hash-extraction.png) |
+| **4. Johnny Cracked Result** | ![Johnny Attack Success](module-1-john-the-ripper/screenshots/03-johnny-attack-success.png) |
+| **5. Unlocked PDF Verification** | ![Unlocked PDF](module-1-john-the-ripper/screenshots/04-unlocked-pdf.png) |
+![Kali Linux Deployment](Week%201%20Screenshots/Screenshot%20%20kali%20linux.png)
 
 ---
 
@@ -62,3 +64,10 @@ This repository documents the Week 3 Cybersecurity & Ethical Hacking internship 
 * **Local vs. Web Tools:** Local engines like **John the Ripper** offer full offline privacy, custom rule sets, and hardware acceleration (CPU/GPU) for complex hashes, whereas web-based tools like **Networkwalks** provide zero-installation convenience for quick audits.
 * **Operational Security Note:** In real-world penetration testing, sensitive corporate documents or hashes should never be uploaded to third-party public web crackers; offline extraction (`pdf2john`) and local JTR instances should be used instead.
 * **Remediation:** Protect sensitive files using strong, high-entropy passphrases (14+ characters) and AES-256 encryption to resist dictionary and brute-force attacks.
+
+ ## 👤 Author Metadata
+
+* **Name:** Abiodun Omotosho
+* **Program:** Networkwalks Cybersecurity Internship
+* **Focus Areas:** Cybersecurity | Network Security | Traffic Analysis
+* **LinkedIn:** [Abiodun Omotosho Profile](https://www.linkedin.com/in/abiodunomotosho1)
