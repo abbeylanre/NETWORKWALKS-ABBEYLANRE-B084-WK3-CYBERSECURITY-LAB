@@ -30,12 +30,11 @@ This repository documents the Week 3 Cybersecurity & Ethical Hacking internship 
 ### Proof of Work (Module 1)
 | Step | Screenshot |
 | :--- | :--- |
-| **1. Johnny Configuration** | ![Johnny Setup](screenshots1/johnny-setup.png) |
-| **2. Hash Extraction (`$pdf$`)** | ![Hash Extraction](module-1-john-the-ripper/screenshots/02-pdf-hash-extraction.png) |
-| **3. Hash Saving (`$pdf$`)** | ![Hash Saving](module-1-john-the-ripper/screenshots/02-pdf-hash-extraction.png) |
-| **4. Johnny Cracked Result** | ![Johnny Attack Success](module-1-john-the-ripper/screenshots/03-johnny-attack-success.png) |
-| **5. Unlocked PDF Verification** | ![Unlocked PDF](module-1-john-the-ripper/screenshots/04-unlocked-pdf.png) |
-![Kali Linux Deployment](Week%201%20Screenshots/Screenshot%20%20kali%20linux.png)
+| **1. Johnny Configuration** | ![Johnny Setup](screenshots1/johny-setup.png) |
+| **2. Hash Extraction (`$pdf$`)** | ![Hash Extraction](screenshots1/hash-extraction.png) |
+| **3. Hash Saving (`$pdf$`)** | ![Hash Saving](/screenshots1/hash1.png) |
+| **4. Johnny Cracked Result** | ![Johnny Attack Success](screenshots1/johny-attack.png) |
+| **5. Unlocked PDF Verification** | ![Unlocked PDF](screenshots1/unlocked-pdf1.png) |
 
 ---
 
@@ -54,9 +53,9 @@ This repository documents the Week 3 Cybersecurity & Ethical Hacking internship 
 ### Proof of Work (Module 2)
 | Step | Screenshot |
 | :--- | :--- |
-| **1. Networkwalks Hash Calculator** | ![Hash Calculator](module-2-networkwalks-tools/screenshots/01-hash-calculator.png) |
-| **2. Networkwalks Password Cracker** | ![Password Cracker](module-2-networkwalks-tools/screenshots/02-password-cracker-success.png) |
-| **3. Unlocked PDF Verification** | ![Unlocked PDF](module-2-networkwalks-tools/screenshots/03-unlocked-pdf.png) |
+| **1. Networkwalks Hash Calculator** | ![Hash Calculator](screenshots2/hash-calculator.png) |
+| **2. Networkwalks Password Cracker** | ![Password Cracker](screenshots2/password-cracker-success.png) |
+| **3. Unlocked PDF Verification** | ![Unlocked PDF](screenshots2/unlocked-pdf2.png) |
 
 ---
 
