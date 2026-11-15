@@ -64,9 +64,13 @@ This repository documents the Week 3 Cybersecurity & Ethical Hacking internship 
 * **Operational Security Note:** In real-world penetration testing, sensitive corporate documents or hashes should never be uploaded to third-party public web crackers; offline extraction (`pdf2john`) and local JTR instances should be used instead.
 * **Remediation:** Protect sensitive files using strong, high-entropy passphrases (14+ characters) and AES-256 encryption to resist dictionary and brute-force attacks.
 
- ## 👤 Author Metadata
+: ## 👤 Author Metadata
 
 * **Name:** Abiodun Omotosho
 * **Program:** Networkwalks Cybersecurity Internship
-* **Focus Areas:** Cybersecurity | Network Security | Traffic Analysis
+* **Focus Areas:** Cybersecurity | Network Security | SOC Analyst | Penetration Testing
 * **LinkedIn:** [Abiodun Omotosho Profile](https://www.linkedin.com/in/abiodunomotosho1)
+
+---
+
+*This repository serves as a live record of my technical development, practical achievements, and professional growth in cybersecurity.*
